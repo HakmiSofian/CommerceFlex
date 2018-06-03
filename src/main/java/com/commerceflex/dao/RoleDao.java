@@ -1,4 +1,4 @@
-package com.example.dao;
+package com.commerceflex.dao;
 
 public class RoleDao {
 
