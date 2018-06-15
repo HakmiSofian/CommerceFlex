@@ -1,4 +1,4 @@
-package com.commerceflex.demo;
+package com.commerceflex;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
