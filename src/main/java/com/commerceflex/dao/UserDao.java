@@ -1,7 +1,12 @@
 package com.commerceflex.dao;
 
-public class UserDao {
-	//create userDao
-	//private
+import java.util.List;
+
+import com.commerceflex.entity.User;
+
+
+public interface UserDao {
+	void add(User user);
+	List<User> listUsers();
 
 }
